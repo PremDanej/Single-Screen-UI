@@ -1,10 +1,8 @@
 ![Single-Screen-UI-Template-Preview](images/Single-Screen-UI-Social-Preview.png)
 
-
 # Single-Screen-UI
 
 **Single-Screen-UI** is an open-source Android project built using **Jetpack Compose**, designed to provide clean, reusable, and modern single-screen UI templates for developers. It demonstrates best practices for building a single-screen user interface on Android. This project aims to accelerate UI development and encourage collaboration by offering ready-to-use screen layouts following Material Design principles.
-
 
 ## 🚀 Features
 
@@ -19,7 +17,6 @@
 - **Language**: Kotlin
 - **UI Framework**: Jetpack Compose
 - **Tools**: Android Studio, Material3 Theme
-
 
 ## ✨ Getting Started
 
@@ -37,12 +34,11 @@ Ensure you have the following tools installed:
 
 Here is my software requirments specification.
 
-| Software | Version                    |
-|----------|----------------------------|
-| Java Jdk      | `17-Jbr` (JetBrains runtime) |
-| AGP      | `8.5.2`                    |
-| Gradle   | `8.7`                      |
-
+| Software | Version                      |
+|----------|------------------------------|
+| Java Jdk | `17-Jbr` (JetBrains runtime) |
+| AGP      | `8.5.2`                      |
+| Gradle   | `8.7`                        |
 
 ## 📦 Installation
 
@@ -78,18 +74,10 @@ Make sure your contributions follow [Conventional Commits](https://www.conventio
 
 For questions or suggestions, feel free to open an issue or reach out for Discussions:
 
-|Github|LinkedIn|Ig|X|
-|-|-|-|-|
+| Github                                                                           | In                                                                                             | Ig                                                                                           | X                                                                                |
+|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/PremDanej) | [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prem-danej) | [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/prem_dnj) | [![Twitter](https://skillicons.dev/icons?i=twitter)](https://www.x.com/prem_dnj) |
-
-
-
-
-
-
-
-
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
