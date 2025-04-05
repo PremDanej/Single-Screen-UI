@@ -30,9 +30,9 @@ Ensure you have the following tools installed:
 - Kotlin (latest stable version)
 - Jetpack Compose (make sure it’s enabled in your project)
 
-### Software Requirmenets Specification
+### Software Requirements Specification
 
-Here is my software requirments specification.
+Here is my software requirements specification.
 
 | Software | Version                      |
 |----------|------------------------------|
@@ -50,7 +50,9 @@ git clone https://github.com/PremDanej/Single-Screen-UI.git
 
 ## 🖼️ Screenshots
 
-Coming soon (Add screenshots or GIFs of UI components)
+|                   SignInScreen(Day)                   | SignInScreen(Night)                                    |
+|-----------------------------------------------|--------------------------------------------------|
+| ![SingIn_Day](images/1.%20SignInScreen_Light.png) | ![SingIn_Night](images/1.%20SignInScreen_Dark.png) |
 
 ## 🤝 Contributing
 
