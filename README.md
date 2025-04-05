@@ -48,13 +48,14 @@ Clone the repository:
 git clone https://github.com/PremDanej/Single-Screen-UI.git
 ```
 
-## 🖼️ Screenshots
+# 🖼️ Screenshots
+The device I'm using is **Moto G45** for taking a screenshot.
 
-|                   SignInScreen(Day)                   | SignInScreen(Night)                                    |
-|-----------------------------------------------|--------------------------------------------------|
-| ![SingIn_Day](images/1.%20SignInScreen_Light.png) | ![SingIn_Night](images/1.%20SignInScreen_Dark.png) |
+|                                1. SignInScreen(Dark)                                 |                                 1. SignInScreen(Light)                                 |
+|:------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|
+| <img src="images/1.%20SignInScreen_Dark.png" width="50%" alt="1. SignInScreen Dark"> | <img src="images/1.%20SignInScreen_Light.png" width="50%" alt="1. SignInScreen Light"> |
 
-## 🤝 Contributing
+# 🤝 Contributing
 
 We welcome contributions from developers around the world! If you have an idea for a new screen, bug fix, or enhancement:
 
@@ -80,6 +81,6 @@ For questions or suggestions, feel free to open an issue or reach out for Discus
 |----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/PremDanej) | [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prem-danej) | [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/prem_dnj) | [![Twitter](https://skillicons.dev/icons?i=twitter)](https://www.x.com/prem_dnj) |
 
-## 📄 License
+# 📄 License
 
 This project is licensed under the [MIT License](LICENSE.md).
