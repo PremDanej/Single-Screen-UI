@@ -55,9 +55,11 @@ git clone https://github.com/PremDanej/Single-Screen-UI.git
 
 The device I'm using is **Moto G45** for taking a screenshot.
 
-|                                1. SignInScreen(Dark)                                 |                                 1. SignInScreen(Light)                                 |                                2. SignUpScreen(Dark)                                |                                2. SignUpScreen(Light)                                 |
-|:------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
-| <img src="images/1.%20SignInScreen_Dark.png" width="50%" alt="1. SignInScreen Dark"> | <img src="images/1.%20SignInScreen_Light.png" width="50%" alt="1. SignInScreen Light"> | <img src="images/2. SignUpScreen_Dark.webp" width="50%" alt="2. SignUpScreen Dark"> | <img src="images/2. SignUpScreen_Light.webp" width="50%" alt="2. SignUpScreen Light"> |
+|   1. SignInScreen(Dark) [🔗](app/src/main/java/com/merp/jet/single/ui/screen/signin/SiginScreen.kt)    |   1. SignInScreen(Light) [🔗](app/src/main/java/com/merp/jet/single/ui/screen/signin/SiginScreen.kt)    |
+|:------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
+|          <img src="images/1.%20SignInScreen_Dark.png" width="50%" alt="1. SignInScreen Dark">          |         <img src="images/1.%20SignInScreen_Light.png" width="50%" alt="1. SignInScreen Light">          |
+| **2. SignUpScreen(Dark)** [🔗](app/src/main/java/com/merp/jet/single/ui/screen/signup/SignUpScreen.kt) | **2. SignUpScreen(Light)** [🔗](app/src/main/java/com/merp/jet/single/ui/screen/signup/SignUpScreen.kt) |
+|          <img src="images/2. SignUpScreen_Dark.webp" width="50%" alt="2. SignUpScreen Dark">           |          <img src="images/2. SignUpScreen_Light.webp" width="50%" alt="2. SignUpScreen Light">          |
 
 ## 🤝 Contributing
 
